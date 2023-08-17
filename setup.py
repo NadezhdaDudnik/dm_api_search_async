@@ -1,9 +1,5 @@
 from distutils.core import setup
-REQUIRES = [
-    'betterproto',
-    'grpclib',
-    'google',
-]
+REQUIRES = []
 setup(
     name='dm_api_search_async',
     version='0.0.1',
